@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<stadium-info>
+  <stadiums>
+    <american-league>
+      <stadium stadium_name="Angels Stadium of Anaheim" team_name="Los Angeles Angels of Anaheim" street_address="2000 E Gene Autry Way" city="Anaheim" state="CA" zip="92806" phone_number="(714)940-2000" date_opened="April 19, 1966" seating_capacity="45483" grass="yes">
+        <connection to="AT&amp;T Park" distance="340"/>
+        <connection to="Dodger Stadium" distance="0"/>
+        <connection to="O.co Coliseum" distance="340"/>
+        <connection to="Petco Park" distance="110"/>
+        <connection to="Target Field" distance="1500"/>
+      </stadium>
+      <stadium stadium_name="Comerica Park" team_name="Detroit Tigers" street_address="2100 Woodward Ave" city="Detroit" state="MI" zip="48201" phone_number="(313) 962-4000" date_opened="April 11, 2000" seating_capacity="41681" grass="yes">
+        <connection to="US Cellular Field" distance="240"/>
+        <connection to="Progressive Field" distance="90"/>
+        <connection to="Rogers Centre" distance="210"/>
+        <connection to="Wrigley Field" distance="240"/>
+      </stadium>
+      <stadium stadium_name="Fenway Park" team_name="Boston Red Sox" street_address="4 Yawkey Way" city="Boston" state="MA" zip="02215" phone_number="(877) 733-7699" date_opened="April 20, 1912" seating_capacity="37499" grass="yes">
+        <connection to="Citi Field" distance="195"/>
+        <connection to="Marlins Park" distance="1255"/>
+        <connection to="Rogers Centre" distance="430"/>
+        <connection to="Yankee Stadium" distance="195"/>
+      </stadium>
+      <stadium stadium_name="Globe Life Park in Arlington" team_name="Texas Rangers" street_address="1000 Ballpark Way" city="Arlington" state="TX" zip="76011" phone_number="(817) 273-5222" date_opened="April 1, 1994" seating_capacity="48114" grass="yes">
+        <connection to="Chase Field" distance="870"/>
+        <connection to="Coors Field" distance="650"/>
+        <connection to="Kauffman Stadium" distance="460"/>
+        <connection to="Minute Maid Park" distance="230"/>
+        <connection to="Turner Field" distance="740"/>
+      </stadium>
+      <stadium stadium_name="Kauffman Stadium" team_name="Kansas City Royals" street_address="1 Royal Way" city="Kansas City" state="MO" zip="64129" phone_number="(816) 921-8000" date_opened="April 10, 1973" seating_capacity="37903" grass="yes">
+        <connection to="Busch Stadium" distance="235"/>
+        <connection to="Coors Field" distance="560"/>
+        <connection to="Globe Life Park in Arlington" distance="460"/>
+        <connection to="US Cellular Field" distance="415"/>
+        <connection to="Wrigley Field" distance="415"/>
+      </stadium>
+      <stadium stadium_name="Minute Maid Park" team_name="Houston Astros" street_address="501 Crawford St" city="Houston" state="TX" zip="77002" phone_number="(713) 259-8000" date_opened="March 30, 2000" seating_capacity="42060" grass="yes">
+        <connection to="Busch Stadium" distance="680"/>
+        <connection to="Chase Field" distance="1115"/>
+        <connection to="Globe Life Park in Arlington" distance="230"/>
+        <connection to="Marlins Park" distance="965"/>
+        <connection to="Tropicana Field" distance="790"/>
+      </stadium>
+      <stadium stadium_name="O.co Coliseum" team_name="Oakland Athletics" street_address="7000 Coliseum Way" city="Oakland" state="CA" zip="94621" phone_number="(510) 569-2121" date_opened="September 18, 1966" seating_capacity="55945" grass="yes">
+        <connection to="Angels Stadium of Anaheim" distance="340"/>
+        <connection to="AT&amp;T Park" distance="0"/>
+        <connection to="Chase Field" distance="650"/>
+        <connection to="Dodger Stadium" distance="340"/>
+        <connection to="SafeCo Field" distance="680"/>
+      </stadium>
+      <stadium stadium_name="Oriole Park at Camden Yards" team_name="Baltimore Orioles" street_address="333 West Camden Street" city="Baltimore" state="MD" zip="21201" phone_number="(410) 685-9800" date_opened="April 6, 1992" seating_capacity="48187" grass="yes">
+        <connection to="Citizens Bank Park" distance="90"/>
+        <connection to="Marlins Park" distance="930"/>
+        <connection to="Nationals Park" distance="0"/>
+        <connection to="PNC Park" distance="195"/>
+        <connection to="Turner Field" distance="560"/>
+      </stadium>
+      <stadium stadium_name="Progressive Field" team_name="Cleveland Indians" street_address="2401 Ontario Street" city="Cleveland" state="OH" zip="44115" phone_number="(216) 420-4487" date_opened="April 2, 1994" seating_capacity="42404" grass="yes">
+        <connection to="Comerica Park" distance="90"/>
+        <connection to="Great America Ball Park" distance="225"/>
+        <connection to="PNC Park" distance="115"/>
+      </stadium>
+      <stadium stadium_name="Rogers Centre" team_name="Toronto Blue Jays" street_address="1 Blue Jays Way" city="Toronto" state="Ontario, Canada" zip="M5V1J3" phone_number="+1 416-341-1000" date_opened="June 3, 1989" seating_capacity="49282" grass="no">
+        <connection to="Comerica Park" distance="210"/>
+        <connection to="Fenway Park" distance="430"/>
+        <connection to="Miller Park" distance="430"/>
+        <connection to="PNC Park" distance="225"/>
+        <connection to="SafeCo Field" distance="2070"/>
+      </stadium>
+      <stadium stadium_name="SafeCo Field" team_name="Seattle Mariners" street_address="1516 First Avenue South" city="Seattle" state="WA" zip="98134" phone_number="(206) 346-4000" date_opened="July 15, 1999" seating_capacity="47476" grass="yes">
+        <connection to="AT&amp;T Park" distance="680"/>
+        <connection to="O.co Coliseum" distance="680"/>
+        <connection to="Rogers Centre" distance="2070"/>
+        <connection to="Target Field" distance="1390"/>
+      </stadium>
+      <stadium stadium_name="Target Field" team_name="Minnesota Twins" street_address="353 N 5th St" city="Minneapolis" state="MN" zip="55403" phone_number="(800) 338-9467" date_opened="April 12, 2010" seating_capacity="39021" grass="yes">
+        <connection to="Angels Stadium of Anaheim" distance="1500"/>
+        <connection to="Busch Stadium" distance="465"/>
+        <connection to="Dodger Stadium" distance="1500"/>
+        <connection to="Miller Park" distance="300"/>
+        <connection to="SafeCo Field" distance="1390"/>
+      </stadium>
+      <stadium stadium_name="Tropicana Field" team_name="Tampa Bay Rays" street_address="1 Tropicana Dr" city="St. Petersburg" state="Florida Man" zip="33705" phone_number="(727) 825-3137" date_opened="March 3, 1990" seating_capacity="42735" grass="no">
+        <connection to="Great America Ball Park" distance="790"/>
+        <connection to="Marlins Park" distance="210"/>
+        <connection to="Minute Maid Park" distance="790"/>
+      </stadium>
+      <stadium stadium_name="US Cellular Field" team_name="Chicago White Sox" street_address="333 West 35th Street" city="Chicago" state="IL" zip="60616" phone_number="(312) 674-1000" date_opened="April 18, 1991" seating_capacity="40615" grass="yes">
+        <connection to="Comerica Park" distance="240"/>
+        <connection to="Great America Ball Park" distance="250"/>
+        <connection to="Kauffman Stadium" distance="415"/>
+        <connection to="Miller Park" distance="80"/>
+        <connection to="Wrigley Field" distance="0"/>
+      </stadium>
+      <stadium stadium_name="Yankee Stadium" team_name="New York Yankees" street_address="1 E 161st St" city="South Bronx" state="NY" zip="10451" phone_number="(718) 293-4300" date_opened="April 16, 2009" seating_capacity="50291" grass="yes">
+        <connection to="Citi Field" distance="0"/>
+        <connection to="Citizens Bank Park" distance="80"/>
+        <connection to="Fenway Park" distance="195"/>
+        <connection to="PNC Park" distance="315"/>
+      </stadium>
+    </american-league>
+    <national-league>
+      <stadium stadium_name="AT&amp;T Park" team_name="San Francisco Giants" street_address="24 Willie Mays Plaza" city="San Francisco" state="CA" zip="94107" phone_number="(415) 972-2000" date_opened="April 11, 2000" seating_capacity="41915" grass="yes">
+        <connection to="Angels Stadium of Anaheim" distance="340"/>
+        <connection to="Chase Field" distance="650"/>
+        <connection to="Dodger Stadium" distance="340"/>
+        <connection to="O.co Coliseum" distance="0"/>
+        <connection to="SafeCo Field" distance="680"/>
+      </stadium>
+      <stadium stadium_name="Busch Stadium" team_name="St. Louis Cardinals" street_address="700 Clark Street" city="St. Louis" state="MO" zip="63102" phone_number="(314) 345-9600" date_opened="April 10, 2006" seating_capacity="46861" grass="yes">
+        <connection to="Great America Ball Park" distance="310"/>
+        <connection to="Kauffman Stadium" distance="235"/>
+        <connection to="Minute Maid Park" distance="680"/>
+        <connection to="Target Field" distance="465"/>
+      </stadium>
+      <stadium stadium_name="Chase Field" team_name="Arizona Diamondbacks" street_address="401 East Jefferson Street" city="Phoenix" state="AZ" zip="85004" phone_number="(602) 462-6500" date_opened="March 31, 1998" seating_capacity="48633" grass="yes">
+        <connection to="AT&amp;T Park" distance="650"/>
+        <connection to="Coors Field" distance="580"/>
+        <connection to="Globe Life Park in Arlington" distance="870"/>
+        <connection to="Minute Maid Park" distance="1115"/>
+        <connection to="O.co Coliseum" distance="650"/>
+        <connection to="Petco Park" distance="300"/>
+      </stadium>
+      <stadium stadium_name="Citi Field" team_name="New York Mets" street_address="126th St. &amp; Roosevelt Ave." city="Queens" state="NY" zip="11368" phone_number="(718) 507-6387" date_opened="April 13, 2009" seating_capacity="41922" grass="yes">
+        <connection to="Citizens Bank Park" distance="80"/>
+        <connection to="Fenway Park" distance="195"/>
+        <connection to="PNC Park" distance="315"/>
+        <connection to="Yankee Stadium" distance="0"/>
+      </stadium>
+      <stadium stadium_name="Citizens Bank Park" team_name="Philadelphia Phillies" street_address="1 Citizens Bank Way" city="Philadelphia" state="PA" zip="19148" phone_number="(215) 463-1000" date_opened="April 3, 2004" seating_capacity="43651" grass="yes">
+        <connection to="Citi Field" distance="80"/>
+        <connection to="Nationals Park" distance="90"/>
+        <connection to="Oriole Park at Camden Yards" distance="90"/>
+        <connection to="Yankee Stadium" distance="80"/>
+      </stadium>
+      <stadium stadium_name="Coors Field" team_name="Colorado Rockies" street_address="2001 Blake St" city="Denver" state="CO" zip="80205" phone_number="(303) 292-0200" date_opened="April 26, 1995" seating_capacity="50480" grass="yes">
+        <connection to="Chase Field" distance="580"/>
+        <connection to="Globe Life Park in Arlington" distance="650"/>
+        <connection to="Kauffman Stadium" distance="560"/>
+        <connection to="Petco Park" distance="830"/>
+      </stadium>
+      <stadium stadium_name="Dodger Stadium" team_name="Los Angeles Dodgers" street_address="1000 Elysian Park Avenue" city="Los Angeles" state="CA" zip="90090" phone_number="(323) 224-1507" date_opened="April 10, 1962" seating_capacity="56000" grass="yes">
+        <connection to="Angels Stadium of Anaheim" distance="0"/>
+        <connection to="AT&amp;T Park" distance="340"/>
+        <connection to="O.co Coliseum" distance="340"/>
+        <connection to="Petco Park" distance="110"/>
+        <connection to="Target Field" distance="1500"/>
+      </stadium>
+      <stadium stadium_name="Great America Ball Park" team_name="Cincinnati Reds" street_address="100 Joe Nuxhall Way" city="Cincinnati" state="OH" zip="45202" phone_number="(513) 381-7337" date_opened="March 31, 2003" seating_capacity="42319" grass="yes">
+        <connection to="Busch Stadium" distance="310"/>
+        <connection to="PNC Park" distance="260"/>
+        <connection to="Progressive Field" distance="225"/>
+        <connection to="Tropicana Field" distance="790"/>
+        <connection to="Turner Field" distance="375"/>
+        <connection to="US Cellular Field" distance="250"/>
+        <connection to="Wrigley Field" distance="250"/>
+      </stadium>
+      <stadium stadium_name="Marlins Park" team_name="Miami Marlins" street_address="501 Marlins Way" city="Miami" state="FL" zip="33125" phone_number="(305)480-1300" date_opened="April 4, 2012" seating_capacity="37442" grass="yes">
+        <connection to="Fenway Park" distance="1255"/>
+        <connection to="Minute Maid Park" distance="965"/>
+        <connection to="Nationals Park" distance="930"/>
+        <connection to="Oriole Park at Camden Yards" distance="930"/>
+        <connection to="Tropicana Field" distance="210"/>
+        <connection to="Turner Field" distance="600"/>
+      </stadium>
+      <stadium stadium_name="Miller Park" team_name="Milwaukee Brewers" street_address="1 Brewers Way" city="Milwaukee" state="WI" zip="53214" phone_number="(414) 902-4400" date_opened="April 6, 2001" seating_capacity="41900" grass="yes">
+        <connection to="Rogers Centre" distance="430"/>
+        <connection to="Target Field" distance="300"/>
+        <connection to="US Cellular Field" distance="80"/>
+        <connection to="Wrigley Field" distance="80"/>
+      </stadium>
+      <stadium stadium_name="Nationals Park" team_name="Washington Nationals" street_address="1500 S Capitol St SE" city="Washington" state="DC" zip="20003" phone_number="(202) 675-6287" date_opened="March 30, 2008" seating_capacity="41418" grass="yes">
+        <connection to="Citizens Bank Park" distance="90"/>
+        <connection to="Marlins Park" distance="930"/>
+        <connection to="Oriole Park at Camden Yards" distance="0"/>
+        <connection to="PNC Park" distance="195"/>
+        <connection to="Turner Field" distance="560"/>
+      </stadium>
+      <stadium stadium_name="Petco Park" team_name="San Diego Padres" street_address="19 Tony Gwynn Drive" city="San Diego" state="CA" zip="92101" phone_number="(619) 795-5000" date_opened="April 8, 2004" seating_capacity="42524" grass="yes">
+        <connection to="Angels Stadium of Anaheim" distance="110"/>
+        <connection to="Chase Field" distance="300"/>
+        <connection to="Coors Field" distance="830"/>
+        <connection to="Dodger Stadium" distance="110"/>
+      </stadium>
+      <stadium stadium_name="PNC Park" team_name="Pittsburgh Pirates" street_address="115 Federal St" city="Pittsburgh" state="PA" zip="15212" phone_number="(412) 321-2827" date_opened="March 31, 2001" seating_capacity="38362" grass="yes">
+        <connection to="Citi Field" distance="315"/>
+        <connection to="Great America Ball Park" distance="260"/>
+        <connection to="Nationals Park" distance="195"/>
+        <connection to="Oriole Park at Camden Yards" distance="195"/>
+        <connection to="Progressive Field" distance="115"/>
+        <connection to="Rogers Centre" distance="225"/>
+        <connection to="Yankee Stadium" distance="315"/>
+      </stadium>
+      <stadium stadium_name="Turner Field" team_name="Atlanta Braves" street_address="755 Hank Aaron Drive" city="Atlanta" state="GA" zip="30315" phone_number="(404) 522-7630" date_opened="March 29, 1997" seating_capacity="49586" grass="yes">
+        <connection to="Globe Life Park in Arlington" distance="740"/>
+        <connection to="Great America Ball Park" distance="375"/>
+        <connection to="Marlins Park" distance="600"/>
+        <connection to="Nationals Park" distance="560"/>
+        <connection to="Oriole Park at Camden Yards" distance="560"/>
+      </stadium>
+      <stadium stadium_name="Wrigley Field" team_name="Chicago Cubs" street_address="1060 West Addison Street" city="Chicago" state="IL" zip="60613" phone_number="(773) 404-2827" date_opened="April 23, 1914" seating_capacity="42374" grass="yes">
+        <connection to="Comerica Park" distance="240"/>
+        <connection to="Great America Ball Park" distance="250"/>
+        <connection to="Kauffman Stadium" distance="415"/>
+        <connection to="Miller Park" distance="80"/>
+        <connection to="US Cellular Field" distance="0"/>
+      </stadium>
+    </national-league>
+  </stadiums>
+  <souvenirs>
+    <souvenir name="Baseball cap" price="$25.99"/>
+    <souvenir name="Baseball bat" price="$35.35"/>
+    <souvenir name="Team pennant" price="$12.99"/>
+    <souvenir name="Autographed baseball" price="$19.99"/>
+  </souvenirs>
+</stadium-info>
